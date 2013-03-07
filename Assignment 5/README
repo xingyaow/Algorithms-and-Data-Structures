@@ -1,0 +1,9 @@
+Author: Zachary Tschirhart
+Class: CS 315 (53395)
+
+
+Answers to Questions:
+
+7. My Function is O(n*log(n))
+   In class function is O(n*log(n))
+   I create O(n^2) garbage

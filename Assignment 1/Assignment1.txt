@@ -1,0 +1,24 @@
+Problem 1)
+
+Max n for an int is 12 with a value of 479001600
+Max n for an Integer is 12 with a value of 479001600
+Max n for a long is 20 with a value of 2432902008176640000
+Max n for a float is about 34 with a value of 2.9523e38
+Max n for a double is about 170.5 with a value of 5.3504e+307
+
+I did not receive any indication that the numbers were wrong on
+everything except the Integer class, but it wasn't the exception 
+I was expecting. So, I am unsure if this was actually the correct 
+exception.
+
+
+Problem 2)
+The graphs are attached along with Time data and the code I used to run it.
+
+The estimates for each Big O are as follows:
+
+mickey: O(n)? //The ratio changes at random points, it's hard to see a pattern 
+minnie: O(n^2) //The time increases by about 4 every time the data is doubled
+goofy: O(n^2) //The time increases by about 4 every time the data is doubled
+pluto: O(n) //The Time is increased by about 2 every time the data is doubled
+
